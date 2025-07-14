@@ -4,7 +4,7 @@
 
  Welcome to BloxTrace!
 
-Thanks for downloading! You're now running one of the most cinematic and realistic BloxShade presets ever made — packed with SSR, NG Lightning, and full RTX-based visuals.
+Thanks for downloading! You're now running one of the most cinematic and realistic shaders — packed with SSR and COMPLETE RT, and full RTX-based visuals.
 
 - Designed for GPUs that can run lol
 
