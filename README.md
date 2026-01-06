@@ -20,3 +20,8 @@ This preset can cause LAG on low-end devices. Use "lite" or "Low" presets instea
 Stay shiny, 
  
 – Olaf <3
+
+
+Join my discord tech server
+
+https://discord.gg/Ju7PdfVCpb
